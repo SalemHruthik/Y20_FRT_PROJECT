@@ -24,8 +24,14 @@ The following are some of the primary attributes of Azure Static Web Apps that l
 
 6.Unique domains to provide your app branded modifications.
 
-Project Link:
+# Project Link: https://agreeable-mushroom-0c98e7610.2.azurestaticapps.net/
 
 # Sample images of the project :
 
+![Screenshot (8)](https://user-images.githubusercontent.com/110277557/200405884-bd9c37b8-cd8a-4648-be31-73683c0d82d0.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/110277557/200405914-5cfc815f-3b5f-4509-b770-68e7cadc8d98.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/110277557/200405934-cf8beb1a-9293-4880-953e-0681de38ffb5.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/110277557/200405943-b8145300-1a03-4fc1-a61f-7b41e8f2c723.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/110277557/200405963-4d301405-8851-4d77-98a9-8cd949bf9c36.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/110277557/200405976-41aee81e-6d4d-45f0-b4ec-05f02faea57b.png)
 
