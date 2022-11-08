@@ -34,4 +34,5 @@ The following are some of the primary attributes of Azure Static Web Apps that l
 ![Screenshot (11)](https://user-images.githubusercontent.com/110277557/200405943-b8145300-1a03-4fc1-a61f-7b41e8f2c723.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/110277557/200405963-4d301405-8851-4d77-98a9-8cd949bf9c36.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/110277557/200405976-41aee81e-6d4d-45f0-b4ec-05f02faea57b.png)
+![image](https://user-images.githubusercontent.com/110277557/200507926-c84756d8-7cb3-4c6f-842e-8cca88d3a424.png)
 
